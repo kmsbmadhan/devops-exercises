@@ -146,6 +146,35 @@ the company he/she is interviewing at, is the right place for him/her.
 * Do I care about knowing what are my responsibilities as part of the role?                                                                                                  
 If you do, you should also play the interviewer role :)
 
+
+Go through this
+
+https://www.101daysofdevops.com/courses/100-days-of-aws/lessons/day-53/
+
+https://www.interviewbit.com/sre-interview-questions/
+
+https://enterprisersproject.com/article/2019/2/kubernetes-job-interview-questions-how-prepare
+
+https://www.simplilearn.com/tutorials/devops-tutorial/devops-interview-questions
+
+https://www.gremlin.com/site-reliability-engineering/sre-interview-questions-and-job-descriptions/
+
+https://www.theladders.com/behavioral-interview-questions/devops-site-reliability
+
+https://sre.google/books/
+
+https://sre.google/sre-book/introduction/
+
+https://www.udemy.com/course/devops-interview-questions-preparation-guide/?utm_source=adwords&utm_medium=udemyads&utm_campaign=LongTail_la.EN_cc.ROWMTA-A&utm_content=deal4584&utm_term=_._ag_80979681994_._ad_533999950027_._kw__._de_c_._dm__._pl__._ti_dsa-1007766171032_._li_20481_._pd__._&matchtype=&gclid=CjwKCAjwrranBhAEEiwAzbhNtSYIGjfuQctbdC9-X3-bk87A7Ap8A0HoTcgb7lU5yhUSMRKNyG1OvxoCxJAQAvD_BwE
+
+https://kodekloud.com/blog/kubernetes-v1-28-release/
+
+https://fidelity.udemy.com/course/devops-training/learn/lecture/9744342#overview
+
+https://fidelity.udemy.com/course/aws-interview-questions-answers/learn/lecture/33093384#overview
+
+https://fidelity.udemy.com/course/awsinterview/learn/lecture/25552886#overview
+
 ### One Last Thing                                
                                                   
 [Good luck](https://youtu.be/AFUrG1-BAt4?t=59) :)
